@@ -47,6 +47,5 @@ Testing My Heroku App : https://dunia-basic-express-server.herokuapp.com/person?
 
 
 ![img](/assets/class02-UML.png)
-
 ![img](/assets/class02-2-UML.png)
 
